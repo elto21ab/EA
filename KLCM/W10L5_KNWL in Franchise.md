@@ -1,0 +1,78 @@
+---
+tags:
+  - CorpSoMe
+---
+## Exam
+- Stay on course track
+	- Only use ext. material strategically/quickly if necessary
+- How 2 write
+	- Style from purdue
+		- Passive ≠ good
+		- Short, direct, active voice is easier (even though it can feel childish)
+		- Write 1st person active voice unless it gets against point "I argue"
+	- Crux: How u frame argument
+	- Don't summarize case. But show u read it. That u got their intended point, your perceived point – but u can critique case as well.
+	- Potential:
+		- Eval arguments made in class
+		- If opposing ideas 2 the ones discussed in class, make sure 2 entertain that point w/ classmate
+	- Can provide perspective on how some (preferably 1) cases relate
+		- Writing style
+		- Challenge
+		- Referring more than 1 for contrast is going to incr. difficulty and risk
+	- Reference
+		- Min.: Explain their argument before applying it, be specific on relevance
+		- Make argument > descr. other theory/case
+	- "When, Why, Who, How"
+
+---
+## This Time: L5_Rema 1000
+### Retail
+- "Even in standardized work, there is a need 4 knwl work/mgmt"
+
+### Franchise
+- Brand
+- Fee (7% rev to Rema)
+- KM
+- Marketing
+- Supply chain
+- Business model pros/cons
+	- Benefits
+		- Each store feels like owners
+		- *Risk mgmt system*
+			- Economics of Scale
+			- Lower entry barriers
+			- Testing
+			- Commitment
+			- 3-4% of bad performing stores close down each year
+		- Loop-holes
+			- Tax
+			- Polish store e.g., (Zabka) avoid open-Sunday regulations
+	- Disadvantages
+		- Avg.
+- WP
+	- Pros
+		- Continuous impr.
+		- Granular info ctrl
+		- Low entry barriers (FB UI)
+	- Cons
+		- Info overload
+		- Lack of structure
+		- Algo success-criteria
+			- Engagement-driven instead of result-driven
+			- Time sink
+		- Non-work interactions
+		- No ctrl (top-down)
+			- Can become overwhelmingly unproductive
+	- Both ("double-edged swords")
+		- Social graph connectivity
+			- Comms w/ everyone (hor. and vert. in org.)
+			- Amplification of irrelevant comms
+		- Reduce power distance
+	- Fixes
+		- Solve algorithms
+		- Sub groups
+			- Mgmt channel
+			- Hor+vert org.
+		- Moderation
+	- What they actually did
+		- Divide it up into smaller "work rooms"
