@@ -15,7 +15,7 @@
 		- **Survey** recommendations?
 			- Psychological frameworks perceived as ==normative enough ==for DIGI-department
 				- MBTI? --> Psychological archetypes
-	- Would u classify this as an explorative, testing, or …. Research project?
+	- Would u classify this as an **explorative**, testing, or …. Research project?
 
 ### Model
 - Proprietary:
