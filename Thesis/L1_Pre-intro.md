@@ -1,6 +1,6 @@
 
 ## **Deadlines**
-	![[72497.png|800]]
+	![[72497.png|600]]
 	
 ## Supervisor
 - Can be anybody

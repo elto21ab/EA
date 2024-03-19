@@ -1,0 +1,5 @@
+- Any double
+	- Use **OSINT** to gather all digital footprint of anybody
+	- Categorize it in size of *persona_module*
+	- Create pipeline to compile everything into a finetune **JSONL** file
+	- 

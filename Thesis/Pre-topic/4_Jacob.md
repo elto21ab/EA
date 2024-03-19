@@ -1,13 +1,14 @@
-
+#Meeting/Jacob
+## Topic
 - Ecosystem architectures (extensions, plugins, integrations, add-ons, user-ideas…)
-	- E.g., Google Chrome, Wordpress, Notion, Obsidian, VS code, Docker, Arc, Lego, CommaAI, Meta’s PyTorch, OpenAI’s GPTs, POE’s bots, etc. 
+	- E.g., Google Chrome, Wordpress, Notion, Obsidian, VS code, Docker, Arc, Lego, CommaAI, Meta’s PyTorch, OpenAI’s GPTs, POE’s bots, etc.
 	- CraftTMS
 - Concepts:
-	- Software Ecosystem 
-	- Open Innovation 
+	- Software Ecosystem
+	- Open Innovation
 	- Modular Architectures
 
-#Meeting/Jacob
+## Qs
 - Hotswap design feasibility
 - Industry standards in tech
 - R&D value proposition
@@ -29,13 +30,13 @@
 Small entities → strategically approach/capitalize → open innovation → facilitated by big corps
 
 ---
-### Answers
+## As
 Ecosystem = Loaded theoretical concept
 - Where 2 get data (*Empirical* investigation)
 	- Public
 	- comp
 	- users
-- Explore vs develop 
+- Explore vs develop
 	- Approach/orientation
 		- Practical (others): Local problem ID --> Instance of general problem (abstraction)
 		- Theoretical (us): We however start from theoretical concept --> and want to explore
@@ -51,8 +52,8 @@ Ecosystem = Loaded theoretical concept
 Recommend:
 - Writing
 	- Clear
-	- commitment 
+	- commitment
 
 > Q often faced: "So what?", why is smth interesting, what utility can it bring
 
-Software- architecture-/engineering
+Softwarearchitecture-/engineering

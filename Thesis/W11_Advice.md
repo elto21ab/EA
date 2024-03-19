@@ -19,7 +19,7 @@
 
 ### Model
 - Proprietary:
-	- gpt-3.5-turbo-0125
+	- ==gpt-3.5-turbo-0125==
 		- Context=16k
 		- 24th best [LLM arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 		- $/1M tokens
@@ -28,14 +28,14 @@
 		- Best OpenAI-model that can be fine-tuned
 - Open weights
 	- Run locally
-		- Mistral 7B Instruct V0.2
+		- ==Mistral 7B Instruct V0.2==
 			- Context = 32K
 			- 32th
 		- Starling-LM-7B-alpha
 			- Context 8K
 			- 26th
 	- Run in [ucloud](https://cloud.sdu.dk/app/applications/overview/)
-		- Qwent1.5-72B-Chat
+		- ==Qwen1.5-72B-Chat==
 			- context=32k
 			- 10th
 		- WizardLM-70B-v1.0

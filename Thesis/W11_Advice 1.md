@@ -1,0 +1,11 @@
+## Encode Personas
+- Find digi footprint of IRL people
+	- Draft of Lit-review
+		- Map out existing - draft
+	- Experiment
+- Qs
+	- How do we encode personas?
+	- What do we ask them?
+	- How do we check if it's representable?
+- WIP
+	- 

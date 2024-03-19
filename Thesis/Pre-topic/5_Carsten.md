@@ -1,8 +1,9 @@
+## Qs
 30m Outline:
 1. Open cards
 2. Introducing #1 and #2
 
-## Answer
+## As
 - **#2**
 - not sim expert
 	- monte carlo
@@ -24,6 +25,7 @@
 - Do interview with focus group facilitators to benchmark implementation
 
 ---
+## Side-note Tips
 - General
 	- Consider what you get rated on
 		- And which types of work that you get credit from doing

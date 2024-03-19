@@ -1,0 +1,41 @@
+---
+tags:
+---
+- Sidenotes
+	- Slides: 6 by 6 rule
+		- <6 words per line
+		- <6 lines per slide
+	- Salary negotiation
+		- ==Be the 1st to say number== (anker)
+		- HR opponent has been in situation way more
+		- Entry-level w/ no negotiation --> Ask: "when can I negotiate salary"
+		- Academia full-time research student or prof = "public adm." sector
+	- #Lego investment
+		- Buy stuff going out of prod.
+		- Sell 2y later 4 huge markup
+		- Reselling to collectors
+		- 1 of the highest markups
+- Survey:
+	- Ranked-order
+		- Except for sensitive/confidential Qs
+- Ethics
+	- Thumb-rule: Data is owned by "origin person" of data
+	- Reproducible consent
+	- Scraping
+		- Cookie
+	- Not responsible 4 loosing data by law
+		- CBS premade NDA --> don't sign shit from external entity before supervisor approve
+		- However, do best to make corp. data stay private.
+	- Using algorithms
+		- Data-src blackbox acknowledgement
+
+---
+## Scraping
+- HTML
+	- Markup lang. (like latex, markdown)
+		- Can be highly automated
+- R
+	- Libraries (does consent for u)
+		- tidyverse
+		- rvest
+		- polite
