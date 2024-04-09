@@ -1,10 +1,6 @@
 ---
 tags:
 ---
-## TODO
-- [ ] Separate by "Topic-L" instead of "W-L"
-- [ ] Embed in index file
-
 ## Last Week
 - Rema 1000 WP
 - Franchise KM/info-mgmt structure

@@ -21,7 +21,7 @@
 
 What teachers call it: quasi, religion, ...
 
-- Discourse of "faritale" leadership can be counterproductive to achieve the change desired.
+- Discourse of "fairytale" leadership can be counterproductive to achieve the change desired.
 - Is leaders even necessary/effective
 - "Romance of leadership"
 	- Attributing credit to individuals for an org's collaborative effort

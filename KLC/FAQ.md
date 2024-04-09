@@ -1,7 +1,20 @@
-**Lingo**
+## TODO
+- [ ] Separate by "Topic-L" instead of "W-L"
+- [ ] Embed in index file
 
+## **Reading style/structure**
+- twice
+- non-chronological order
+	- Conclusion
+	- Headings
+	- Rest
 
-Program (canvas):
+>- Case > theory
+>	- Situations (cases) r the basis of how ppl create their reality paradigm (theoretical understanding)
+
+## **Lingo**
+
+## Program (canvas):
 1. Self-organizing teams
 2. The transparency paradox
 	1. Jieliang phone home
@@ -17,10 +30,7 @@ Program (canvas):
 9. Complexity leadership theory
 10. Strategic inno
 
->- Case > theory 
->	- Situations (cases) r the basis of how ppl create their reality paradigm (theoretical understanding)
-
-## What is a case?
+## What is a Case?
 - Actual situation
 - Problem or solution
 - Perspective: decision-maker(s)
@@ -30,19 +40,19 @@ Program (canvas):
 	1. all info
 	2. fully realized solution
 	3. full clarity on action-plan
-### Levels of analytical difficulty
+### Levels of Analytical Difficulty
 1. Problem --> Solution: Fit?
 2. Problem: What solution?
 3. Situation: What r problems --> solutions?
 4. * The obj isn't necessary 2 follow/accept the truth presented by case *
 	1. Disagree
 	2. ID other problems/solutions
-### Analysis guide
+### Analysis Guide
 - What is problem/decision about
-- ID facts 
+- ID facts
 	- How can u group facts
 	- What actions do facts support
-- How do facts relate to problem decision 
+- How do facts relate to problem decision
 
 >How to unpack; not how to discuss – the case
 

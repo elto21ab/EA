@@ -21,7 +21,7 @@
 - Proprietary:
 	- ==gpt-3.5-turbo-0125==
 		- Context=16k
-		- 24th best [LLM arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+		- 24th --> 18th best [LLM arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 		- $/1M tokens
 			- .5 I
 			- 1.5 O
@@ -30,17 +30,17 @@
 	- Run locally
 		- ==Mistral 7B Instruct V0.2==
 			- Context = 32K
-			- 32th
+			- 32th --> 27th
 		- Starling-LM-7B-alpha
 			- Context 8K
-			- 26th
+			- 26th --> 25th
 	- Run in [ucloud](https://cloud.sdu.dk/app/applications/overview/)
 		- ==Qwen1.5-72B-Chat==
 			- context=32k
-			- 10th
+			- 10th --> 8th
 		- WizardLM-70B-v1.0
 			- context =4K
-			- 20th
+			- 20th --> 18th
 
 ---
 
